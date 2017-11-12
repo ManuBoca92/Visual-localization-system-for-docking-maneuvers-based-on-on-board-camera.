@@ -1,0 +1,8 @@
+prefix=/home/manu/image_transport/devel
+
+Name: learning_image_transport
+Description: Description of learning_image_transport
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/manu/image_transport/devel/lib 
+Requires: cv_bridge image_transport geometry_msgs std_msgs

@@ -1,0 +1,2 @@
+learning_image_transport:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-DCATKIN_DEVEL_PREFIX=/home/manu/image_transport/devel -DCMAKE_INSTALL_PREFIX=/home/manu/image_transport/install -G Unix Makefiles
